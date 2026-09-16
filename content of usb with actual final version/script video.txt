@@ -1,0 +1,32 @@
+visualiser article
+-peut voir nom
+-peut voir prix
+-peut voir image
+-peut voir lien
+-peut cliquer sur lien
+
+ajouter article
+-juste besoin d'url
+-si pas de nom entre = utilise nom officiel
+-si url existe deja = empeche doublon
+-ouvre fenetre pour verifie validite d'url
+-ouvre seconde fenetre pour lire info
+
+modifier article
+-peut changer nom, url ou desc
+-si change url vers url d'item existant = empeche doublon
+-maj info lors de sauvegarde pcq cree nouv item pour remplacer l'ancien
+
+supprimer article
+-message d'avertissement
+--couleur derangeante pour attirer attention
+-suppression est permanante
+
+maj prix
+-sur minuterie personalisable
+-maj tous les articles ds la liste d<un coup un apres l'autre
+-si detecte url plus(-) lisible = protocole brokenURL
+
+extra
+-mode sombre
+-barre de monu
